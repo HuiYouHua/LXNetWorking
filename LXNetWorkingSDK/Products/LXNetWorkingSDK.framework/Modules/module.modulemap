@@ -1,6 +1,0 @@
-framework module LXNetWorkingSDK {
-  umbrella header "LXNetWorkingSDK.h"
-
-  export *
-  module * { export * }
-}
