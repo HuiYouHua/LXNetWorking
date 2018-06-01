@@ -3,7 +3,6 @@ AFNetworking封装 + Socket封装
 采用静态库方式封装
 
 AFNetworking:
-
     - SSH证书
     - GET / POST网络请求
     - 图片上传
