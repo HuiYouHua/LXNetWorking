@@ -1,0 +1,43 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/huahuiyou/Library/Developer/Xcode/DerivedData/LXNetWorkingDemo-hhqpjhnjktrpmsfekstehttflgki/Build/Products/Debug-iphonesimulator/LXNetWorkingSDK.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "LXNetWorkingSDK-Swift.h",
+          'external-contents': "/Users/huahuiyou/Library/Developer/Xcode/DerivedData/LXNetWorkingDemo-hhqpjhnjktrpmsfekstehttflgki/Build/Products/Debug-iphonesimulator/LXNetWorkingSDK.framework/Headers/LXNetWorkingSDK-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "LXNetWorkingSDK.h",
+          'external-contents': "/Users/huahuiyou/Desktop/LXNetWorkingDemo/LXNetWorkingSDK/LXNetWorkingSDK/LXNetWorkingSDK.h"
+        },
+        {
+          'type': 'file',
+          'name': "LXNetworkHelper.h",
+          'external-contents': "/Users/huahuiyou/Desktop/LXNetWorkingDemo/LXNetWorkingSDK/LXNetWorkingSDK/LXAFNetworking/LXNetworkHelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "LXSocketManager.h",
+          'external-contents': "/Users/huahuiyou/Desktop/LXNetWorkingDemo/LXNetWorkingSDK/LXNetWorkingSDK/LXSRWebSocket/LXSocketManager.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/huahuiyou/Library/Developer/Xcode/DerivedData/LXNetWorkingDemo-hhqpjhnjktrpmsfekstehttflgki/Build/Products/Debug-iphonesimulator/LXNetWorkingSDK.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/huahuiyou/Desktop/LXNetWorkingDemo/LXNetWorkingSDK/build/LXNetWorkingSDK.build/Debug-iphonesimulator/LXNetWorkingSDK.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
